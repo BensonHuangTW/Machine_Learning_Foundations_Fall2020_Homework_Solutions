@@ -7,7 +7,7 @@ This repository contains solutions to the assignments of the course Machine Lear
 
 For lectures and videos of this course, please refer to the [course website](https://www.csie.ntu.edu.tw/~htlin/course/ml20fall/).
 ## Environments
-The codes can be excuted in `python--3.6.12`. Basically, the codes just import `numpy` only and some figures in the solutions are generated using `matplotlib`. For details, please refer to [requirements.txt](./requirements.txt). You can use conda to install them: just run the following command in the repository directory,
+The codes can be excuted in `python--3.6.12`. Basically, they just import `numpy` only and some figures in the solutions pdf files are generated using `matplotlib`. For details, please refer to [requirements.txt](./requirements.txt). You can use conda to install them: just run the following command in the repository directory,
 ```bash
 $ conda install --yes --file requirements.txt
 ```
