@@ -23,3 +23,4 @@ $ python3 16.py
 ## Solutions Links
 * [homework1](./homework1/homework1_solution.pdf)
 * [homework2](./homework2/homework2_solution.pdf)
+* [homework3](./homework3/homework3_solution.pdf)
